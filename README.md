@@ -6,6 +6,8 @@ The core concept is documented in [`Whitepaper.md`](Whitepaper.md). It outlines 
 
 The legal license for this work is available in [`LICENSE`](LICENSE).
 
+I have been strongly getting into quantitive finance and quantitative computing lately. I feel like doing more things like this in the future.
+
 In the coming days, I plan to release both Python and C++ model implementations for SAAES. However, I’m currently crammed for time — especially with Accounting test tomorrow — so releases might be slow.
 
 Stay tuned.
