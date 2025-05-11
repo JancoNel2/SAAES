@@ -16,6 +16,10 @@ Most traditional averaging strategies — including DCA, Martingale, and fixed-s
 
 SAAES aims to solve these problems by using capital in a fragment-based manner while optimizing entry and exit conditions in real-time.
 
+Traditional investment wisdom often touts the concept that "time in the market beats timing the market," where investors are encouraged to simply buy and hold assets for the long term. While this approach works in steady markets, it can be inefficient and risky in volatile or unpredictable conditions. Many of these "buy-and-hold" strategies fail to actively capitalize on price fluctuations or make intelligent decisions based on market movements.
+
+SAAES challenges this mindset by blending the stability of long-term investing with the flexibility and responsiveness of active trading. It aims to optimize entry and exit points, buying assets when prices dip and selectively taking profits when prices rise, all while allowing for capital scaling through reinvestment. By doing so, it provides the potential for better returns than a simple passive strategy, even in markets where time alone may not be the best investment strategy.
+
 ---
 
 ## 2. Core Mechanics
